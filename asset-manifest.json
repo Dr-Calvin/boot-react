@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/boot-react/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/boot-react/static/js/main.c7844fe0.chunk.js",
-    "main.js.map": "/boot-react/static/js/main.c7844fe0.chunk.js.map",
+    "main.js": "/boot-react/static/js/main.002691fd.chunk.js",
+    "main.js.map": "/boot-react/static/js/main.002691fd.chunk.js.map",
     "runtime-main.js": "/boot-react/static/js/runtime-main.0fc44c06.js",
     "runtime-main.js.map": "/boot-react/static/js/runtime-main.0fc44c06.js.map",
     "static/css/2.150d169a.chunk.css": "/boot-react/static/css/2.150d169a.chunk.css",
-    "static/js/2.a8aa58d9.chunk.js": "/boot-react/static/js/2.a8aa58d9.chunk.js",
-    "static/js/2.a8aa58d9.chunk.js.map": "/boot-react/static/js/2.a8aa58d9.chunk.js.map",
+    "static/js/2.a11529e7.chunk.js": "/boot-react/static/js/2.a11529e7.chunk.js",
+    "static/js/2.a11529e7.chunk.js.map": "/boot-react/static/js/2.a11529e7.chunk.js.map",
     "index.html": "/boot-react/index.html",
     "static/css/2.150d169a.chunk.css.map": "/boot-react/static/css/2.150d169a.chunk.css.map",
     "static/css/main.6dea0f05.chunk.css.map": "/boot-react/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.a8aa58d9.chunk.js.LICENSE.txt": "/boot-react/static/js/2.a8aa58d9.chunk.js.LICENSE.txt",
+    "static/js/2.a11529e7.chunk.js.LICENSE.txt": "/boot-react/static/js/2.a11529e7.chunk.js.LICENSE.txt",
     "static/media/person.97ec67fc.jpeg": "/boot-react/static/media/person.97ec67fc.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.0fc44c06.js",
     "static/css/2.150d169a.chunk.css",
-    "static/js/2.a8aa58d9.chunk.js",
+    "static/js/2.a11529e7.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.c7844fe0.chunk.js"
+    "static/js/main.002691fd.chunk.js"
   ]
 }
