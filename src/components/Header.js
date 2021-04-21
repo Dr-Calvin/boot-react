@@ -14,7 +14,7 @@ const Header = () => (
         <Navbar bg="light" expand="lg">
         <Container>
 
-         <Nav.Link className="font-weight-bold" href="/">
+         <Nav.Link className="font-weight-bold" href="#myProfile">
                   <img src={AVATAR} alt="avatar" className="img-fluid rounded-circle" style={{ width: 36 }} />
                 </Nav.Link>
   <Navbar.Brand href="#home">Some Organisation</Navbar.Brand>
