@@ -1,9 +1,9 @@
+/* eslint-disable react/jsx-filename-extension */
 import 'bootstrap/dist/css/bootstrap.min.css';
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 // import ThemeSwitcher from './ThemeSwitcher';
 import App from './App';
-import reportWebVitals from './reportWebVitals';
+
 ReactDOM.render(<App />, document.getElementById('root'));
-reportWebVitals();
